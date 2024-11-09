@@ -1,7 +1,8 @@
 # Pertemuan 7
+
 ### Aditya Rachmansyah Hamid (50421048)
 
-## Lathian menggunakan git
+## Latihan menggunakan git
 
 ---
 
